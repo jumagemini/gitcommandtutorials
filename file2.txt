@@ -1,1 +1,1 @@
-i am a text file called file2
+I am a text file called file2
